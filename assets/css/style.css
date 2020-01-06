@@ -5,12 +5,12 @@ header {
 } 
 
 h1 {
-    color: blue;
+    color: red;
     text-align: center;
 }
 
 .logo {
-    background: url("assets/images/John.png");
+    background: url("../images/rosie.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
